@@ -32,6 +32,7 @@
 .header {
     display: flex;
     flex-direction: column;
+    height: 700px;
 }
 
 .nav {
@@ -62,7 +63,7 @@
 }
 
 .main-title {
-    margin-top: 180px;
+    margin-top: 120px;
     margin-left: 399px;
     font-size: var(--font-size-large);
     color: var(--color-dark);
@@ -71,14 +72,14 @@
 
 .description {
     margin-left: 399px;
-    margin-top: 50px;
+    margin-top: 20px;
     font-size: var(--font-size-normal);
     max-width: 600px;
     color: var(--color-secondary);
 }
 
 .contact-button {
-    margin-top: 60px;
+    margin-top: 20px;
     margin-left: 399px;
     margin-bottom: 140px;
     padding: 20px 40px;
